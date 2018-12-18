@@ -28,7 +28,9 @@ Verwaltung der Reservierungen:
 
 Dateiverwaltung:
 
-    Der aktuelle Stand der Reservierungen soll in die Datei „reservierungen.txt“ geschrieben werden. Falls die Datei noch nicht existiert soll sie angelegt werden, ansonsten sollen die Daten an das Ende der Datei angehängt werden. Lesen der Daten aus der Datei ist nicht gefordert!
+    Der aktuelle Stand der Reservierungen soll in die Datei „reservierungen.txt“ geschrieben werden. Falls die Datei noch nicht 
+    existiert soll sie angelegt werden, ansonsten sollen die Daten an das Ende der Datei angehängt werden. Lesen der Daten aus der 
+    Datei ist nicht gefordert!
 
  
 Die Verwaltung der Kunden soll dynamisch erfolgen. Bei Bedarf sollen entsprechende (Fehler-) Meldungen ausgegeben werden. 
